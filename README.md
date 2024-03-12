@@ -18,5 +18,5 @@ Flutter, Dart, Android development, Java, Kotlin
 
 <!-- Links to your social media accounts -->
 
-[3]: [www.linkedin.com/in/valeriia-radzivilo](https://www.linkedin.com/in/valeriia-radzivilo/)
-[6]: https://www.github.com/yourusername/](https://github.com/valeriiaradzivilo)https://github.com/valeriiaradzivilo
+[3]: [https://www.linkedin.com/in/valeriia-radzivilo/](https://www.linkedin.com/in/valeriia-radzivilo/)
+[6]: [https://github.com/valeriiaradzivilo](https://github.com/valeriiaradzivilo)
