@@ -8,6 +8,6 @@
 Flutter, Dart, Android development, Java, Kotlin
 
 ## Connect with me:
-LinkedIn <img src='https://cdn.pixabay.com/photo/2021/02/26/22/36/linkedin-6053397_1280.png' width='25'>  [https://www.linkedin.com/in/valeriia-radzivilo/](https://www.linkedin.com/in/valeriia-radzivilo/)
-Github <img src='https://cdn.iconscout.com/icon/free/png-256/free-github-brand-logo-47401.png?f=webp' width='25'> [https://github.com/valeriiaradzivilo](https://github.com/valeriiaradzivilo)
+ <img src='https://cdn.pixabay.com/photo/2021/02/26/22/36/linkedin-6053397_1280.png' width='25'>  [LinkedIn](https://www.linkedin.com/in/valeriia-radzivilo/)
+ <img src='https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png' width='25'> [Github](https://github.com/valeriiaradzivilo)
 
