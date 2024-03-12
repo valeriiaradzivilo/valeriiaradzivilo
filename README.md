@@ -1,7 +1,7 @@
 # Hello, I'm Valeriia! 👋
 
 ## About Me
-🔭 I’m currently working as Flutter Developer \n
+🔭 I’m currently working as Flutter Developer <br />
 🌱 I’m currently learning in National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 
 ## Languages and Tools:
