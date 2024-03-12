@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Valeriia! 👋
 
-<!--
-**valeriiaradzivilo/valeriiaradzivilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🔭 I’m currently working as Flutter Developer
+🌱 I’m currently learning in National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 
-Here are some ideas to get you started:
+## My GitHub Stats
+!YourName's GitHub stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+!YourName's Top Langs
+
+## Connect with me:
+[![LinkedIn][3.2]][3]
+[![GitHub][6.2]][6]
+
+<!-- Icons -->
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[6.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/github-16.png (GitHub icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[3]: www.linkedin.com/in/valeriia-radzivilo
+[6]: https://www.github.com/yourusername/](https://github.com/valeriiaradzivilo)https://github.com/valeriiaradzivilo
