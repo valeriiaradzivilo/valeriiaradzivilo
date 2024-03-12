@@ -1,14 +1,11 @@
 # Hello, I'm Valeriia! 👋
 
 ## About Me
-🔭 I’m currently working as Flutter Developer
+🔭 I’m currently working as Flutter Developer \n
 🌱 I’m currently learning in National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
 
-## My GitHub Stats
-!YourName's GitHub stats
-
 ## Languages and Tools:
-!YourName's Top Langs
+Flutter, Dart, Android development, Java, Kotlin
 
 ## Connect with me:
 [![LinkedIn][3.2]][3]
@@ -21,5 +18,5 @@
 
 <!-- Links to your social media accounts -->
 
-[3]: www.linkedin.com/in/valeriia-radzivilo
+[3]: [www.linkedin.com/in/valeriia-radzivilo](https://www.linkedin.com/in/valeriia-radzivilo/)
 [6]: https://www.github.com/yourusername/](https://github.com/valeriiaradzivilo)https://github.com/valeriiaradzivilo
