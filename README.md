@@ -13,8 +13,8 @@ Flutter, Dart, Android development, Java, Kotlin
 
 <!-- Icons -->
 
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[6.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/github-16.png (GitHub icon without padding)
+[3.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png
+[6.2]: https://cdn.iconscout.com/icon/free/png-256/free-github-brand-logo-47401.png?f=webp (GitHub icon without padding)
 
 <!-- Links to your social media accounts -->
 
