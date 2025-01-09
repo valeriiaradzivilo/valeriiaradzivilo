@@ -6,10 +6,14 @@
 - Passionate about creating impactful apps that solve real-world problems and constantly eager to learn new technologies.
 
 ## Languages and Tools:
-Frontend & Mobile: Flutter, Dart
-Backend: Firebase, Supabase
-Android Development: Java, Kotlin, Android SDK
-Other Skills: Git, REST API, Bloc, Unit/Integration Testing
+
+  Frontend & Mobile: Flutter, Dart
+
+  Backend: Firebase, Supabase
+
+  Android Development: Java, Kotlin, Android SDK
+
+  Other Skills: Git, REST API, Bloc, Unit/Integration Testing
 
 ## Connect with me:
 - <img src='https://cdn.pixabay.com/photo/2021/02/26/22/36/linkedin-6053397_1280.png' width='25'>  [LinkedIn](https://www.linkedin.com/in/valeriia-radzivilo/)      
